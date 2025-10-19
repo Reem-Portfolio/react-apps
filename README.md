@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚛️ React Projects Collection
 
 A collection of **React.js applications** built to practice component-based architecture, routing, props, hooks, and modern front-end patterns.  
@@ -19,40 +18,34 @@ Each project focuses on improving interactivity, clean structure, and reusable U
 
 To run any project locally, follow these steps:
 
-1. **Open the folder** of the project you want (e.g. `E-commerce-FreshCart`)
-2. Open the terminal and run:
+1. **Open the folder** of the project you want (for example: `E-commerce-FreshCart`)
+2. Open the terminal inside that folder.
+3. Run the following commands:
+
    ```bash
    npm install
    npm start
-````
-
-3. Your project will open automatically at [http://localhost:3000](http://localhost:3000)
-
----
+**4.** The project will open automatically at http://localhost:3000
+--- 
 
 ## 🧩 Technologies Used
+React.js
 
-* React.js
-* React Router DOM
-* JSX & Components
-* CSS3 / SCSS
-* JavaScript (ES6+)
+React Router DOM
 
----
+JSX & Components
+
+CSS3 / SCSS
+
+JavaScript (ES6+)
 
 ## 🎯 Purpose
+Practice React fundamentals and routing.
 
-* To practice React fundamentals and routing.
-* Build responsive and reusable UI components.
-* Improve state management and app structure.
+Build responsive and reusable UI components.
 
----
+Improve state management and app structure.
 
 ## 👩‍💻 Author
-
 **Reem Haitham**
 Front-End Developer | Passionate about building beautiful and interactive React apps ⚡
-=======
-# react-apps
-"Mini React applications and components demonstrating practical usage of React features, state management, and component-based architecture for front-end development."
->>>>>>> 0c0e2490ddd6b660928c94d066ac7254e021a0e9
