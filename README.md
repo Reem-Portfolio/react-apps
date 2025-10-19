@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚛️ React Projects Collection
 
 A collection of **React.js applications** built to practice component-based architecture, routing, props, hooks, and modern front-end patterns.  
@@ -51,3 +52,7 @@ To run any project locally, follow these steps:
 
 **Reem Haitham**
 Front-End Developer | Passionate about building beautiful and interactive React apps ⚡
+=======
+# react-apps
+"Mini React applications and components demonstrating practical usage of React features, state management, and component-based architecture for front-end development."
+>>>>>>> 0c0e2490ddd6b660928c94d066ac7254e021a0e9
